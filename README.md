@@ -1,6 +1,6 @@
 # mnist_data_classification-using-ANN-and-CNN
 
-In this post i am going to implement a simple python code for mnist data classification using ANN and CNN model using keras.
+In this post i am going to implement a simple python code for mnist data classification using ANN and CNN model in keras.
 
 keras is a high level nueral network API, capable of running over tensorflow and theano. Keras allows easy and fast implementation. it supports deep neural networks and very much suitable for building deep neural network models.
  
