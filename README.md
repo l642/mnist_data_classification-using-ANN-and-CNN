@@ -31,7 +31,9 @@ We can plot and see any of the image from dataset image(let's say the fifth imag
 plt.imshow(X_train[5])
 plt.show()
 ````
-![alt text](images/filename%285.png)
+![5](https://user-images.githubusercontent.com/58771064/98289933-ec1d4f80-1fce-11eb-9e5c-98ff71ee8eae.png)
+
+
 
 
 Now we need to reshape our data set inorder to apply for ANN model. As the ANN model receive data data in vector form so the data is converted into vector form.
